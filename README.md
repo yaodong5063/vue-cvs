@@ -19,6 +19,6 @@ options  //主要配置参数  为数组  里面参数
 import cvs from './index.vue'
 components:{
 	  cvs
-},
-  
+} 
 <cvs :options="obj" :id="'canvas'" :num="num" :end="end"></cvs>
+

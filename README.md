@@ -17,6 +17,7 @@ options  //主要配置参数  为数组  里面参数
 //end:false   true为终止循环，false为开始循环,默认false
 
 import cvs from './index.vue'
+
 components:{
 	  cvs
 } 
